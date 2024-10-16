@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-impl:17.2.2@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/gradle-8.9/caches/transforms-3/8d801cc27da2d8f5fdae7b556b803eee/transformed/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle-8.9/caches/transforms-3/8d801cc27da2d8f5fdae7b556b803eee/transformed/jetified-play-services-measurement-impl-17.2.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle-8.9/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-impl/17.2.2/4a4916d6e33a805513fa1109aff369861153f448/play-services-measurement-impl-17.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
